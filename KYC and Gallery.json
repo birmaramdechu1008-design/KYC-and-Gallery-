@@ -109,7 +109,7 @@
     "key": "byu5rfi8knt5",
     "expirydate": "30-01-2026",
     "user": "Manoj Kumar",
-    "Allowoffline": true
+    "Allowoffline": false
   },
   {
     "device_id": "7c1a63ed876e42b7",
